@@ -1,4 +1,4 @@
-### Hi, I'm Hong, 1001binary 👋
+### Hi, I'm Hong Phat, 1001binary 👋
 
 - I'm Hong Phat, Ly from Vietnam.
 - I'm currently working as Software Engineer in Germany.
