@@ -9,4 +9,4 @@
 ### Contact
 My E-Mail: zerobitsec@gmail.com
 
-![1001binary's github stats](https://github-readme-stats.vercel.app/api?username=1001binary&show_icons=true)
+![1001binary's GitHub stats](https://github-readme-stats.vercel.app/api?username=1001binary&show_icons=true)
